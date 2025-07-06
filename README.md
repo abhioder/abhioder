@@ -1,38 +1,35 @@
-<h2 align="left">Hi 👋!<br>My name is Abhishek Thakur<br>I'm an Aspiring Software Developer from Bangalore</h2>
+## Hey 👋, I'm Abhishek Thakur!
 
-###
+I’m an aspiring Software Developer from Bangalore, India.  
+Passionate about learning new technologies and building real-world projects using modern tech stacks.  
+Currently focusing on **full-stack web development**, **C++ for DSA**, and **Python programming**.
 
-<img align="right" height="106" src="https://i.imgur.com/9msyg8.gif" />
+---
 
-###
+### 🧐 More About Me:
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-</div>
+- 🌱 &nbsp; Currently learning Full-Stack Web Development and C++ DSA  
+- 🔭 &nbsp; Working on small frontend projects and Python mini-apps  
+- 💬 &nbsp; Ask me about HTML, CSS, JavaScript, Python, or GitHub  
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/abhishek-thakur-5b93b2357) or email me at [abhishek4304444@gmail.com](mailto:abhishek4304444@gmail.com)  
+- 🎯 &nbsp; My goal: Get a high-paying tech internship and placement  
+- 🛠 &nbsp; I believe in clean code, consistent effort, and learning by building
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/thakur_x_abhi?igsh=aXB1bDl4b3A1dTVn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://discordapp.com/users/abhishek_thakur0770" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-  <a href="mailto:abhishek4304444@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhishek-thakur-5b93b2357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
+
+### 🛠️ Projects I'm Working On
+
+- A personal portfolio website  
+- Python CLI tools  
+- Responsive web landing pages
+
+---
+
+### 📫 Connect With Me
+
+- **Instagram**: [@thakur_x_abhi](https://www.instagram.com/thakur_x_abhi?igsh=aXB1bDl4b3A1dTVn)  
+- **Discord**: `abhishek_thakur0770`  
+- **Email**: [abhishek4304444@gmail.com](mailto:abhishek4304444@gmail.com)  
+- **LinkedIn**: [Abhishek Thakur](https://www.linkedin.com/in/abhishek-thakur-5b93b2357)
+
